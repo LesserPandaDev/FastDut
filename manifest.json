@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "FastDut",
-    "version": "1.0",
+    "version": "1.1",
     "description": "버튼 클릭시 엔트리로 이동",
     "permissions": [
       "activeTab"
