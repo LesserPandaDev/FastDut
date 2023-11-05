@@ -1,6 +1,11 @@
-# FastDut
-The Fast Dut extension is an extension created by Lesser Panda to speed up Dutgyo.
 
-#사용 방법
-zip 파일을 다운로드합니다. 압축해제후, 확장 프로그램 { chrome://extensions/ }탭에서 개발자 모드를 켭니다.
-압축해제된 확장 프로그램을 로드합니다. 버튼을 클릭한후, 압축을 풀은 FastDut 폴더를 선택합니다.
+
+# FastDut
+**FastDut**은 Dutgyo 를 빨리 하기 위해 만들어진 레서판다가 만든 확장프로그램입니다.<br>
+<br>
+# 설치 방법
+
+**zip 파일**을 다운로드합니다.
+압축해제후, 확장 프로그램 { *chrome://extensions/* }탭에서 개발자 모드를 켭니다.<br>
+**압축해제된 확장 프로그램을 로드합니다.** 버튼을 클릭한후, 압축을 풀은 Dirter 폴더를 선택합니다.<br>
+<br>
