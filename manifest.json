@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "FastDut",
+    "version": "1.0",
+    "description": "버튼 클릭시 엔트리로 이동",
+    "permissions": [
+      "activeTab"
+    ],
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "128": "icon128.png"
+      }
+    }
+  }
